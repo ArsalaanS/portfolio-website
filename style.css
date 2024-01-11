@@ -45,8 +45,8 @@ nav {
 
 a {
     color: black;
-    text-decoration: none;
-    text-decoration: white;
+    text-decoration: underline;
+    text-underline-offset: 1rem;
 }
 
 a:hover {
